@@ -83,6 +83,12 @@
 		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/main.cpp">
 			<Option target="OOP_Project"/>
 		</Unit>
+		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/quiz.h">
+			<Option target="OOP_Project"/>
+		</Unit>
+		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/riddle.h">
+			<Option target="OOP_Project"/>
+		</Unit>
 		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

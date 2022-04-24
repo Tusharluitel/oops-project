@@ -7,8 +7,16 @@
 #IncludeRegexTransform: 
 
 /Users/tusharluitel/Desktop/2nd Semester/OOP Project/main.cpp
-iostream
--
 string
 -
+iostream
+-
+quiz.h
+/Users/tusharluitel/Desktop/2nd Semester/OOP Project/quiz.h
+riddle.h
+/Users/tusharluitel/Desktop/2nd Semester/OOP Project/riddle.h
+
+/Users/tusharluitel/Desktop/2nd Semester/OOP Project/quiz.h
+
+/Users/tusharluitel/Desktop/2nd Semester/OOP Project/riddle.h
 
