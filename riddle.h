@@ -18,12 +18,11 @@ public:
         cout<<"\n"<<question;
         for(int i=0; i<guess; i++) {
             cin >> userAns;
-            if (userAns != answer) {
-                cout << "It is incorrect. You have " << --guessRemaining <<" guess remaining";
+            if (userAns == answer) {
+                cout << "It is correct";
             }
             else{
-                cout << "It is correct";
-                exit(0);
+                cout << "It is incorrect. You have " << --guessRemaining <<" guess remaining";
             }
         }
 

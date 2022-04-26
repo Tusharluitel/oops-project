@@ -21,15 +21,15 @@ public:
         correctAnswer=answer;
         score=sc;
     }
-    string askHistoryQues()
-    {
+    void printQues(){
         int ans;
-        cout<<"\nA."<<question<<endl;
-        cout<<"1."<<option1<<endl;
-        cout<<"2."<<option2<<endl;
-        cout<<"3."<<option3<<endl;
-        cout<<"4."<<option4<<endl;
-        cout<<"ans: ";
+        cout<<endl;
+        cout<<"--."<<question<<endl;
+        cout<<"a."<<option1<<endl;
+        cout<<"b."<<option2<<endl;
+        cout<<"c."<<option3<<endl;
+        cout<<"d."<<option4<<endl;
+        cout<<"ans";
         cin>>ans;
         if (ans==correctAnswer)
         {

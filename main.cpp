@@ -37,15 +37,20 @@ int main(){
         for (int i=0;i<3;i++)
         {
 
-            history[i].askHistoryQues();
+            history[i].printQues();
         }
     }
 
     else if(userDecision == 2){
         cout<<"You are playing riddle";
-        Riddle riddle;
-        riddle.setRiddle("What has one head, one foot and four legs?", "bed");
-        riddle.askRiddle();
+        Riddle riddle[3];
+        riddle[0].setRiddle("What has one head, one foot and four legs?", "bed");
+        riddle[1].setRiddle( "What has a head and a tail but no body?", "coin");
+        riddle[2].setRiddle("What is so fragile that saying its name breaks it?", "silence");
+        for (int j = 0; j<3; j++)
+        {
+            riddle[j].askRiddle();
+        }
 
     }
     else{
