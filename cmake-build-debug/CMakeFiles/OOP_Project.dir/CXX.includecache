@@ -11,6 +11,8 @@ string
 -
 iostream
 -
+iomanip
+-
 quiz.h
 /Users/tusharluitel/Desktop/2nd Semester/OOP Project/quiz.h
 riddle.h

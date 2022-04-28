@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/exceptionalhandling.h">
+			<Option target="OOP_Project"/>
+		</Unit>
 		<Unit filename="/Users/tusharluitel/Desktop/2nd Semester/OOP Project/main.cpp">
 			<Option target="OOP_Project"/>
 		</Unit>
